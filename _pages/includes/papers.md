@@ -7,8 +7,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://arxiv.org/pdf/2405.20291)
+[Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://arxiv.org/pdf/2405.20291) 
+  
   **Weilin Lin**, Li Liu<sup>#</sup>, Shaokui Wei, Jianze Li, Hui Xiong
+  
   Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2024
 </div>
 </div>
@@ -22,9 +24,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/nips24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation](https://arxiv.org/pdf/2408.15861)
+[Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation](https://arxiv.org/pdf/2408.15861)
+  
   **Weilin Lin**, Li Liu<sup>#</sup>, Jianze Li, Hui Xiong
 </div>
 </div>
 
-- `Arxiv 2023` [A comprehensive survey on segment anything model for vision and beyond](https://arxiv.org/pdf/2305.08196),Chunhui Zhang, Li Liu<sup>#</sup>, Yawen Cui, Guanjie Huang, **Weilin Lin**, Yiqian Yang, Yuehong Hu
+- `Arxiv 2023` [A comprehensive survey on segment anything model for vision and beyond](https://arxiv.org/pdf/2305.08196), Chunhui Zhang, Li Liu<sup>#</sup>, Yawen Cui, Guanjie Huang, **Weilin Lin**, Yiqian Yang, Yuehong Hu
