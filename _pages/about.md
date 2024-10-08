@@ -29,4 +29,4 @@ redirect_from:
 <span class='anchor' id='-services'></span>
 {% include_relative includes/service.md %}
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=FQDA32H4P1uD3859plDOvHZJ9AkvmLLbcRu-UV9kmOY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=FQDA32H4P1uD3859plDOvHZJ9AkvmLLbcRu-UV9kmOY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script> -->
