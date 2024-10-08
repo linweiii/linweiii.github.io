@@ -10,11 +10,11 @@
 [Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://arxiv.org/pdf/2405.20291) 
   
   **Weilin Lin**, Li Liu<sup>#</sup>, Shaokui Wei, Jianze Li, Hui Xiong
-  
-  Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2024
 
   - New insights on unlearning weight change and backdoor activeness.
   - Propose an effective defense strategy using reinitialization and fine-tuning.
+  
+  *Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, 2024*
 </div>
 </div>
 
