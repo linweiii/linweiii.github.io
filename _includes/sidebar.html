@@ -9,6 +9,7 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
+    {% include clustermap.html %}
   {% endif %}
   </div>
 {% endif %}
