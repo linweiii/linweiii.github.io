@@ -7,7 +7,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/backdoordm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BackdoorDM: A Comprehensive Benchmark for Backdoor Learning on Diffusion Model](https://arxiv.org/pdf/2502.11798) [![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg#gh-light-mode-only)](https://github.com/linweiii/BackdoorDM){:style="vertical-align:middle;width:24px;height:24px;"}
+[BackdoorDM: A Comprehensive Benchmark for Backdoor Learning on Diffusion Model](https://arxiv.org/pdf/2502.11798) <a href="https://github.com/linweiii/BackdoorDM" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="display:inline;vertical-align:middle;width:1em;height:1em;"></a>
   
   **Weilin Lin**<sup>*</sup>, Nanjun Zhou<sup>*</sup>, Yanyun Wang, Jianze Li, Hui Xiong, Li Liu<sup>#</sup>
 
@@ -22,7 +22,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral</div><img src='images/OTBR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation](https://arxiv.org/pdf/2408.15861) [![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg#gh-light-mode-only)](https://github.com/linweiii/OTBR){:style="vertical-align:middle;width:24px;height:24px;"} <span style="color:red;">Oral Presentation (4.6%)</span>
+[Fusing Pruned and Backdoored Models: Optimal Transport-based Data-free Backdoor Mitigation](https://arxiv.org/pdf/2408.15861) <a href="https://github.com/linweiii/OTBR" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="display:inline;vertical-align:middle;width:1em;height:1em;"></a> <span style="color:red;">Oral Presentation (4.6%)</span>
   
   **Weilin Lin**, Li Liu<sup>#</sup>, Jianze Li, Hui Xiong
 
@@ -37,7 +37,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://openreview.net/pdf?id=MfGRUVFtn9) [![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg#gh-light-mode-only)](https://github.com/linweiii/TSBD){:style="vertical-align:middle;width:24px;height:24px;"}
+[Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness](https://openreview.net/pdf?id=MfGRUVFtn9) <a href="https://github.com/linweiii/TSBD" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" style="display:inline;vertical-align:middle;width:1em;height:1em;"></a>
   
   **Weilin Lin**, Li Liu<sup>#</sup>, Shaokui Wei, Jianze Li, Hui Xiong
 
