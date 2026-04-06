@@ -55,7 +55,7 @@
 
 ## *Preprints*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/sarsteer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/sarsteer.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](https://arxiv.org/pdf/2510.17633)
