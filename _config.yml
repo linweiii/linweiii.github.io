@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weilin Lin"
-description              : "Department of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou)"
+description              : "Artificial Intelligence Thrust, The Hong Kong University of Science and Technology (Guangzhou)"
 repository               : "linweiii/linweiii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weilin Lin (林威霖)"
   avatar           : "images/me.png"
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Candidate"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 

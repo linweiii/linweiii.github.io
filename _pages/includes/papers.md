@@ -55,5 +55,20 @@
 
 ## *Preprints*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/sarsteer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SARSteer: Safeguarding Large Audio Language Models via Safe-Ablated Refusal Steering](https://arxiv.org/pdf/2510.17633)
+  
+  **Weilin Lin**, Jianze Li, Hui Xiong, Li Liu<sup>#</sup>
+
+  - The first inference-time defense framework specifically designed for Large Audio Language Models (LALMs).
+  - Proposes text-derived refusal steering to enforce refusal without manipulating audio inputs.
+  - Introduces decomposed safety space ablation to mitigate over-refusal on benign speech queries.
+
+  *arXiv preprint, 2025*
+</div>
+</div>
+
 - `Arxiv 2024` [Segment anything for videos: A systematic survey](https://arxiv.org/pdf/2408.08315), Chunhui Zhang, Yawen Cui, **Weilin Lin**, Guanjie Huang, Yan Rong, Li Liu<sup>#</sup>, Shiguang Shan.
 - `Arxiv 2023` [A comprehensive survey on segment anything model for vision and beyond](https://arxiv.org/pdf/2305.08196), Chunhui Zhang, Li Liu<sup>#</sup>, Yawen Cui, Guanjie Huang, **Weilin Lin**, Yiqian Yang, Yuehong Hu.

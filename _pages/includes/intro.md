@@ -3,6 +3,6 @@ I am currently a third-year Ph.D. student at AI Thrust, Information Hub, [The Ho
 
 ###  Research Interests
 - AI Security / Safety
+- Red-teaming Agent 
 - Backdoor Learning
-- Large Audio Language Model
 - Recommendation
