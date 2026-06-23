@@ -70,5 +70,6 @@
 
 ## *Preprints*
 
+- `Arxiv 2026` [RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140), **Weilin Lin**, Ziqi Lin, Zhenxing Zhou, Jianze Li, Tong Zhang, Hui Xiong, Li Liu<sup>#</sup>.
 - `Arxiv 2024` [Segment anything for videos: A systematic survey](https://arxiv.org/pdf/2408.08315), Chunhui Zhang, Yawen Cui, **Weilin Lin**, Guanjie Huang, Yan Rong, Li Liu<sup>#</sup>, Shiguang Shan.
 - `Arxiv 2023` [A comprehensive survey on segment anything model for vision and beyond](https://arxiv.org/pdf/2305.08196), Chunhui Zhang, Li Liu<sup>#</sup>, Yawen Cui, Guanjie Huang, **Weilin Lin**, Yiqian Yang, Yuehong Hu.
