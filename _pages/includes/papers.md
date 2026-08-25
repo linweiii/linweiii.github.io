@@ -4,16 +4,16 @@
 
 ## *Publications*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/RedEdit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/RedEdit.png' alt="sym" width="60%" style="display: block; margin: 0 auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140)
   
   **Weilin Lin**, Ziqi Lin, Zhenxing Zhou, Jianze Li, Tong Zhang, Hui Xiong, Li Liu<sup>#</sup>
 
-  - RedEdit is a black-box red-teaming agent that probes image safety classifiers by generating realistic photo edits.
-  - Formulates photo-editing evasion as combinatorial search over edit-tool sequences, guided by an MCTS planner and a VLM-based edit proposer.
-  - On UnsafeBench, fewer than two edits on average let 76.2% of unsafe images evade detectors while retaining 93.0% malicious semantics, revealing a critical safety gap in current moderation systems.
+  - A black-box red-teaming agent that probes image safety classifiers via realistic photo editing.
+  - Frames photo-editing evasion as combinatorial search over edit-tool sequences, guided by MCTS planning.
+  - Reveals a critical safety gap: even a few edits let most unsafe images evade detection while retaining malicious semantics.
 
   *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary — Main Conference (acceptance rate 15.4%)*
 </div>
