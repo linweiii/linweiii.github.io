@@ -9,7 +9,7 @@
 
 [RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140)
   
-  **Weilin Lin**, Ziqi Lin, Zhenxing Zhou, Jianze Li, Tong Zhang, Hui Xiong, Li Liu<sup>#</sup>
+  **Weilin Lin**<sup>*</sup>, Ziqi Lin<sup>*</sup>, Zhenxing Zhou, Jianze Li, Tong Zhang, Hui Xiong, Li Liu<sup>#</sup>
 
   - A black-box red-teaming agent that probes image safety classifiers via realistic photo editing.
   - Frames photo-editing evasion as combinatorial search over edit-tool sequences, guided by MCTS planning.
