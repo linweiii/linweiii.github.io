@@ -13,7 +13,6 @@
 
   - A black-box red-teaming agent that probes image safety classifiers via realistic photo editing.
   - Frames photo-editing evasion as combinatorial search over edit-tool sequences, guided by MCTS planning.
-  - Reveals a critical safety gap: even a few edits let most unsafe images evade detection while retaining malicious semantics.
 
   *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary — Main Conference (acceptance rate 15.4%)*
 </div>
