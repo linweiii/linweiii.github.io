@@ -4,7 +4,7 @@
 
 ## *Publications*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/RedEdit.png' alt="sym" width="60%" style="display: block; margin: 0 auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/RedEdit.png' alt="sym" width="80%" style="display: block; margin: 0 auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](https://arxiv.org/abs/2606.06140)
