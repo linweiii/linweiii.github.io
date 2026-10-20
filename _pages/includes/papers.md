@@ -78,6 +78,8 @@
 </div>
 </div>
 
+- `ACM MM 2026 Oral` [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994), Tianxin Xie, Wentao Lei, Kai Jiang, et al. (30 authors, incl. **Weilin Lin**).
+- `ICSR 2024` [Content-Aware Efficient Learner for Audio-Visual Emotion Recognition](https://doi.org/10.1007/978-981-96-1151-5_4), Guanjie Huang<sup>*</sup>, **Weilin Lin**<sup>*</sup>, Li Liu. <span style="color:red;">Best Student Paper Award Finalist</span>
 - `ICASSP 2025` [Gradient Norm-based Fine-Tuning for Backdoor Defense in Automatic Speech Recognition](https://arxiv.org/pdf/2502.01152), Nanjun Zhou<sup>*</sup>, **Weilin Lin**<sup>*</sup>, Li Liu<sup>#</sup>.
 - `WWW 2023` [Autodenoise: Automatic data instance denoising for recommendations](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339), **Weilin Lin**, Xiangyu Zhao<sup>#</sup>, Yejing Wang, Yuanshao Zhu, Wanyu Wang.
 - `KDD 2022` [AdaFS: Adaptive feature selection in deep recommender system](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204), **Weilin Lin**, Xiangyu Zhao<sup>#</sup>, Yejing Wang, Tong Xu, Xian Wu.

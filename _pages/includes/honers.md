@@ -3,4 +3,11 @@
 - Merit Prize, Best Research Award (2025–26), AI Thrust, HKUST(GZ).
 - Outstanding Paper Award (Second Prize), The 15th Guangdong-Hong Kong-Macao Conference on Image and Graphics, December 2025. Awarded for the paper "BackdoorDM: A Comprehensive Benchmark for Backdoor Learning on Diffusion Model".
 - Best Student Paper Award Finalist in ICSR 2024.
-- Full Postgraduate Scholarship, HKUST(GZ).
+- Full Postgraduate Scholarship, HKUST(GZ), 2023–2027.
+- Research Travel Grant (RTG), AI Thrust (PhD), HKUST(GZ), 2026.
+- Research Travel Grant (RTG), HKUST(GZ), 2025, 2026.
+- Research Travel Grant (RTG), Information Hub, HKUST(GZ), 2025.
+- Professional Skills and Innovation Scholarship, 2020.
+- First Prize, The 8th Data Mining Challenge "TIPDM CUP", 2020.
+- Second Prize, National AI Innovation Competition, 2020.
+- S Prize, Mathematical Contest in Modeling (MCM/ICM), 2019.

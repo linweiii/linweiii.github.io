@@ -20,6 +20,9 @@ redirect_from:
 <span class='anchor' id='-experience'></span>
 {% include_relative includes/exp.md %}
 
+<span class='anchor' id='-teaching'></span>
+{% include_relative includes/teaching.md %}
+
 <span class='anchor' id='-honors-and-awards'></span>
 {% include_relative includes/honers.md %}
 
