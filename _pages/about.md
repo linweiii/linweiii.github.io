@@ -14,9 +14,6 @@ redirect_from:
 <span class='anchor' id='-papers'></span>
 {% include_relative includes/papers.md %}
 
-<span class='anchor' id='-educations'></span>
-{% include_relative includes/edu.md %}
-
 <span class='anchor' id='-experience'></span>
 {% include_relative includes/exp.md %}
 

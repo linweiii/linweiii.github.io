@@ -6,9 +6,6 @@ main:
   - title: "Selected Papers"
     url: "/#-papers"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Experience"
     url: "/#-experience"
 
